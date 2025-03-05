@@ -6,6 +6,7 @@
   margin: 2em 16em;
   border-radius: 20px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  border: 0.3rem solid #000000;
 }
 
 .titulo {
